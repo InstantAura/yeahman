@@ -1168,7 +1168,7 @@ const gamesArr = [
   {
     filter: ['food','simulator'],
     link: `papa-louie`,
-    imgsrc: `papa-louie.jpg`,
+    imgsrc: `papa-louie.png`,
     name: `Papa Louie`,
     developer: `Flipline Studios`,
     desc: `Papa Louie: When Pizzas Attack is a platformer that lets you play as Papa Louie himself as he gets transported to worlds within pizza boxes. Your goal is to save the pizzas and free your employees and customers from captivity.`,
