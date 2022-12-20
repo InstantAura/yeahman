@@ -10,6 +10,10 @@ const filters = [
         filterid: 'mp',
     },
     {
+        filter: 'Adventure',
+        filterid: 'adventure',
+    },
+    {
         filter: 'Emulator',
         filterid: 'emu',
     },

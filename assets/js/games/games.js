@@ -1184,6 +1184,15 @@ const gamesArr = [
     controls: [`Click to Play`]
   },
   {
+    filter: ['adventure','misc'],
+    link: `adam-and-eve`,
+    imgsrc: `adam-and-eve.jpg`,
+    name: `Adam and Eve`,
+    developer: `JoyceUnited`,
+    desc: `Adam and Eve is a point-and-click adventure game featuring pre-historic characters and animals! You control a man named Adam, and he is on a journey to find Paradise and finally meet Eve. The journey he sets out on is not easy. There are various things that can slow him down. Do not let him down, but help him by solving the puzzles so that he can successfully pass each area and achieve his goal. On the journey, you will find beautiful pre-historic lands and even the big animals, like dinosaur and tortoise. Can Adam finally reach Paradise?`,
+    controls: [`Left click to interact with an object.`]
+  },
+  {
     filter: [`misc`, `flash`],
     link: `btd`,
     imgsrc: `btd.jpg`,
