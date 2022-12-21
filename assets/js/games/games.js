@@ -1474,6 +1474,26 @@ const gamesArr = [
     controls: [`Unknown`]  
   },
   {
+    filter: [`misc`],
+    link: `arcade-wizard`,
+    imgsrc: `arcade-wizard.png`,
+    name: `Arcade Wizard`,
+    developer: `Taccommandeur`,
+    desc: `Save Arcadia by getting back the Tome of Arcade Intellect from the evil wizard Alistair.
+    In this action filled top down shooter you can unlock new orbs and skins by fighting waves of enemie`,
+    controls: [`The wizard will follow the mouse. The orb will follow the wizard and shoot backwards. By holding the mouse the orb angle will be locked.
+    Press P to pause during a level.`]  
+  },
+  {
+    filter: [`shoot`],
+    link: `anti-terrorist-rush`,
+    imgsrc: `anti-terrorist-rush.png`,
+    name: `Anti Terrorist Rush`,
+    developer: `Denis Vasilev`,
+    desc: `Our hero is step-in once more to stop the terrorist from terrorizing the world!`,
+    controls: [`The character shoots automatically. Drag left mouse button to use special weapons.`]  
+  },
+  {
     filter: [`drive`],
     link: `motox3m`,
     imgsrc: `motox3m.png`,
