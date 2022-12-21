@@ -366,6 +366,61 @@ const gamesArr = [
   },
   {
     filter: [`plat`],
+    link: `death-soul`,
+    imgsrc: `death-soul.png`,
+    name: `Death Soul`,
+    developer: `Shyaam Developer`,
+    desc: `Death Soul is an interesting game for those who love horror movies Rules of the Game: You have to go through a maze with different challenges, you have a certain number of lives to complete one level, collect the keys that would open the door to the next room.`,
+    controls: [`Mouse/Arrow Keys`]
+  },
+  {
+    filter: [`misc`],
+    link: `dont-drop-the-white-ball-2`,
+    imgsrc: `dont-drop-the-white-ball-2.png`,
+    name: `Don't Drop The White Ball 2`,
+    developer: `Takenewgames.com`,
+    desc: `Don't drop the white ball is a reflex game. If you think you're ready to enter the high stakes world of ball spiking, then this game is custom made for you. In 'Don't Drop The White Ball' you play as a spikey horizontal bar that is obsessed with smashing white balls. You can engage in your violent hobby for as long s you want so long as you are fast enough to smash all of the white balls. The game ends immediately if and when any white ball, even just one white ball, somehow sneaks past you. In a lot of ways, you are like a goalie who is trying to stop a never-ending barrage of white balls and you lose the game the moment you let one ball passed you. How long do you think you can outsmart the balls? How many balls do you think you can crush before your willpower finally gives out and you. let one slip past the goalie? Do you have the strength within you to start again and beat that record? Will you ascend the leaderboard and leave other players in your dust? 'Don't Drop The White Ball' just might be the kind of challenge you are looking for, try it today.`,
+    controls: [`Use the Left and Right Arrow Pad to move the spiked bar back and forth. Your job is to stop and pop all of the falling white balls before they get passed you.`]
+  },
+  {
+    filter: [`adventure`,'plat'],
+    link: `duke-dashington-remastered`,
+    imgsrc: `duke-dashington-remastered.png`,
+    name: `Duke Dashington Remastered`,
+    developer: `ADVENTURE ISLANDS`,
+    desc: `Duke Dashington Remastered is a platform game where you're a treasure hunter swiftly escaping from collapsing dungeons and castles. Each level gives you 10 seconds to flee before the whole room tumbles down. So examine the surroundings quickly, determine the right exit path, and dash your way to freedom!`,
+    controls: [`Unknown`]
+  },
+  {
+    filter: [`food`],
+    link: `finns-fantastic-food-machine`,
+    imgsrc: `finns-fantastic-food-machine.png`,
+    name: `Finn's Fantastic Food Machine`,
+    developer: `LIGHT WOLF STUDIOS`,
+    desc: `You have this amazing machine that can create food to match your customer's orders. You must catch the plates that spit out of the machine so that the food doesn't drop. You must then serve it to the customers as quickly as possible! This game is fun and requires great reactions and timing.`,
+    controls: [`AD or left/right arrow key to move.
+    Space bar to serve.`]
+  },
+  {
+    filter: [`adventure`],
+    link: `flappy-defense`,
+    imgsrc: `flappy-defense.png`,
+    name: `Flappy Defense`,
+    developer: `DYAD Games`,
+    desc: `Destroy Birds by shooting off cannonballs from your customizable pipe. Don't let a single one through or you'll be set back! Defeating bosses loots you diamonds to purchase powerful Items at your side. Are you able to earn every Achievement? Brag to your friends by hitting an all time top score in the Leaderboards! Never stop fighting the oncoming waves to become a Flappy Defense Master!`,
+    controls: [`Unknown`]
+  },
+  {
+    filter: [`puzzle`],
+    link: `factory-balls-forever`,
+    imgsrc: `factory-balls-forever.png`,
+    name: `Factory Balls Forever`,
+    developer: `BART BONTE`,
+    desc: `Factory Balls Forever is a logic game by Bart Bonte. You might think that working on the assembly line is tedious work, but not if you're manufacturing Factory Balls! Your job in this logic puzzle game is to custom craft each ball to a specific order. You've got all the tools you need to fulfill each order.`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: [`plat`],
     link: `boxel-rebound`,
     imgsrc: `boxel-rebound.jpg`,
     name: `Boxel Rebound`,
