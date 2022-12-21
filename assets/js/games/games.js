@@ -36,6 +36,84 @@ const gamesArr = [
     controls: [`Click or spacebar to shoot.`]
   },
   {
+    filter: ['drive'],
+    link: `kart-fight-io`,
+    imgsrc: `kart-fight-io.png`,
+    name: `Kart Fight.io`,
+    developer: `Geisha Tokyo`,
+    desc: `Kart Fight.io is a hypercasual game in which you need to control a cat driving a kart and push other opponents out of the platform. Be the last player standing!
+    Check out our kart games for more! Smash Karts is another popular kart fighting game with several weapons and upgrades to use in battle!`,
+    controls: [`Drag left mouse button to move.`]
+  },
+  {
+    filter: ['puzzle'],
+    link: `klocki`,
+    imgsrc: `klocki.jpg`,
+    name: `Klocki`,
+    developer: `Maciej Targoni`,
+    desc: `"Klocki" is a relaxing puzzle game in which your task is to connect all the lines on the board.... But not only!
+
+
+    I designed the game so that you can play it without any pressure or stress. No ads, time limits or scoring. Calm gameplay is accompanied by meditative soundtrack created by Wojciech Wasiak.`,
+    controls: [`Drag left mouse button to move.`]
+  },
+  {
+    filter: ['plat'],
+    link: `linquest`,
+    imgsrc: `linquest.jpg`,
+    name: `Linquest`,
+    developer: `Noadev`,
+    desc: `LinQuest is a 2D platformer game with a mission to help adventurer Lin to search for a mysterious treasure in 3 different dangerous zones.`,
+    controls: [`A, D, or arrow keys to move.
+    W, H, Up Arrow key, or space bar to jump`]
+  },
+  {
+    filter: ['plat'],
+    link: `one-screen-run`,
+    imgsrc: `one-screen-run.png`,
+    name: `One Screen Run`,
+    developer: `baba_s`,
+    desc: `It's very simple to play! Just click at the right moment to jump!
+    Collect all the coins scattered throughout the stage to clear the stage!`,
+    controls: [`< Game >
+
+    * Mouse Click or [Space] - Jump
+    * [P] - Pause
+    * [R] - Retry
+    * [Q] - Quit
+    
+    < Pause Menu and Result Menu >
+    
+    * Mouse Click - Decide
+    * [Space] - Continue and Next Stage
+    * [P] - Continue
+    * [R] - Retry
+    * [Q] - Quit`]
+  },
+  {
+    filter: ['plat'],
+    link: `one-screen-run-2`,
+    imgsrc: `one-screen-run-2.jpg`,
+    name: `One Screen Run 2`,
+    developer: `baba_s`,
+    desc: `It's very simple to play! Just click at the right moment to jump!
+    Collect all the coins scattered throughout the stage to clear the stage!`,
+    controls: [`< Game >
+
+    * Mouse Click or [Space] - Jump
+    * [P] - Pause
+    * [R] - Retry
+    * [Q] - Quit
+    
+    < Pause Menu and Result Menu >
+    
+    * Mouse Click - Decide
+    * [Space] - Continue and Next Stage
+    * [P] - Continue
+    * [R] - Retry
+    * [Q] - Quit`]
+  },
+  {
     filter: ['sport'],
     link: `basket-and-ball`,
     imgsrc: `basket-and-ball.png`,
@@ -43,6 +121,33 @@ const gamesArr = [
     developer: `Sun Temple`,
     desc: `In Basket & Ball you have to bounce the rebel ball into the jolliest of baskets while solving puzzles and gathering bonuses.`,
     controls: [`WASD/Click to Play`]
+  },
+  {
+    filter: ['shoot'],
+    link: `pacman-fps`,
+    imgsrc: `pacman-fps.jpg`,
+    name: `Pacman FPS`,
+    developer: `Unknown`,
+    desc: `Pacman FPS is a 3D pacman game.Shoot ghosts and collect golds for getting points.Your ammo is limited , look out for extra ammo.`,
+    controls: [`W,A,S,D or Arrow Keys for movement. Left click for shooting.`]
+  },
+  {
+    filter: ['action'],
+    link: `evil-glitch`,
+    imgsrc: `evil-glitch.jpg`,
+    name: `Evil Glitch`,
+    developer: `Agar3s`,
+    desc: `An arcade 2D shoot 'em up with retro aesthetics inspired by 80's media, featuring an universe and plot line based on Sacred Geometry. Players must fight to survive as long as they can evading enemies and destroying their bases to stop the corruption. Compete with your friends or on global leaderboards.`,
+    controls: [`Unknown`]
+  },
+  {
+    filter: ['scary'],
+    link: `fake-virus`,
+    imgsrc: `fake-virus.jpg`,
+    name: `Fake Virus`,
+    developer: `Unknown`,
+    desc: `Prank your friends and family members with a hillarious fake virus screen.`,
+    controls: [`Click to Play`]
   },
   {
     filter: ['mp','shoot','fight'],
