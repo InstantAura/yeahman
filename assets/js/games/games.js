@@ -150,6 +150,16 @@ const gamesArr = [
     controls: [`Click to Play`]
   },
   {
+    filter: ['food','misc'],
+    link: `flippy-fish`,
+    imgsrc: `flippy-fish.png`,
+    name: `Flippy Fish`,
+    developer: `dodoot`,
+    desc: `You play as Flippy, an unlucky fish whose life will soon come to a tragic end… unless it manages to slip between the hands of the Sushi Master who wants to transform it into Maki !`,
+    controls: [`SPACE: jump
+    - UP/DOWN ARROWS: roll`]
+  },
+  {
     filter: ['mp','shoot','fight'],
     link: `gun-blood`,
     imgsrc: `gun-blood.png`,
