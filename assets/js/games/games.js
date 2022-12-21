@@ -332,10 +332,89 @@ const gamesArr = [
     filter: [`scary`],
     link: `backrooms`,
     imgsrc: `backrooms.jpg`,
-    name: `Idle Breakout`,
+    name: `Backrooms`,
     developer: `David Campbell III`,
     desc: `The Backrooms is a horror multiplayer game mixed with different mechanics that will make you spend an intense night with friends.`,
     controls: [`Unknown`]
+  },
+  {
+    filter: [`sport`],
+    link: `basketball-io`,
+    imgsrc: `basketball-io.png`,
+    name: `Basketball.io`,
+    developer: `Unknown`,
+    desc: `Basketball.io is a great online game where you will be playing basketball on street courts. The controls are simple and all you need are the arrows and the mouse. Your objective will be to run around the field, trying to catch the ball. If you do that you need to score a point for your team, you do that automatically by getting next to the hoop. Your player can also show off his tricks. If another player from your team has the ball, your objective will be to push other players out, which will allow your team to score. It’s a really good game that you will fall in love with.`,
+    controls: [`Arrow Keys: Movement`]
+  },
+  {
+    filter: [`io`,'mp'],
+    link: `clean-up-io`,
+    imgsrc: `clean-up-io.png`,
+    name: `Clean Up.io`,
+    developer: `BinStudio`,
+    desc: `Just like Hole.io, this game allows you to grow bigger and eventually clean the entire map! Start by vacuuming small objects and make your way to victory.`,
+    controls: [`Drag the left mouse button to control the vacuum's movement.`]
+  },
+  {
+    filter: [`misc`],
+    link: `color-switch`,
+    imgsrc: `color-switch.png`,
+    name: `Color Switch: Challenges Edition`,
+    developer: `David Reichelt`,
+    desc: `The color switch challenge is randomly picking a predefined set of tiles and asking players to stay away from them. Otherwise, the tiles will be removed randomly resulting in the players falling to their deaths and losing the match. After a while, the removed tiles will be reset if players have successfully survived.`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: [`plat`],
+    link: `boxel-rebound`,
+    imgsrc: `boxel-rebound.jpg`,
+    name: `Boxel Rebound`,
+    developer: `dopplercreative.com`,
+    desc: `Play over 50 levels of box-jumping madness! Design and share your own levels.`,
+    controls: [`W/Up Arrow: Jump`]
+  },
+  {
+    filter: [`puzzle`],
+    link: `burning-man-2`,
+    imgsrc: `burning-man-2.jpg`,
+    name: `Burning Man 2`,
+    developer: `Instant Games Studio`,
+    desc: `Help the Burning Man to enter the water before he explodes!`,
+    controls: [`Press left mouse button to remove blocks.`]
+  },
+  {
+    filter: [`sport`],
+    link: `basket-bros-io`,
+    imgsrc: `basket-bros-io.jpg`,
+    name: `Basket Bros.io`,
+    developer: `Blue Wizard Digital`,
+    desc: `BasketBros is a fast-paced basketball game with online and offline gameplay. Choose a basketballer, customize your style, and compete in singleplayer and multiplayer games. Throw down some sick dunks and win the game to earn upgrades and unlockables.`,
+    controls: [`WASD + G
+    Arrows + L`]
+  },
+  {
+    filter: [`misc`],
+    link: `blocky-snakes`,
+    imgsrc: `blocky-snakes.png`,
+    name: `Blocky Snakes`,
+    developer: `BEEDO GAMES`,
+    desc: `Blocky Snakes is an io game where you'll be playing as a snake. As usual, you will be trying to score the highest on the score board. Eat everything in front of you. Your objective is to kill your enemies and to eat the remains which will help you grow even larger which will make you score higher on the score board.`,
+    controls: [`Move your mouse to control the movement in the normal view.
+    Use the WASD keys to control the movement in third-person view.
+    Press left mouse button to boost speed.`]
+  },
+  {
+    filter: [`sport`],
+    link: `basketball-legends-2020`,
+    imgsrc: `basketball-legends-2020.png`,
+    name: `Basketball Legends 2020`,
+    developer: `MadPuffers`,
+    desc: `Basketball Legends 2020 is the ultimate basketball game where you can play as LeBron James, James Harden, Kawhi Leonard, Giannis Antetokounmpo, Luka Doncic, and much more, created by MadPuffers.`,
+    controls: [`AD or left and right arrow keys to move.
+    X/L to shoot/steal.
+    S to pump/block.
+    A+A or D+D or left/right arrow twice to dash.
+    K/Z to super shot.`]
   },
   {
     filter: [`drawing`],
@@ -1485,6 +1564,15 @@ const gamesArr = [
     Press P to pause during a level.`]  
   },
   {
+    filter: [`drawing`],
+    link: `aspiring-artist`,
+    imgsrc: `aspiring-artist.png`,
+    name: `Aspiring Artist`,
+    developer: `Catyph12345`,
+    desc: `Help young artist to reach his dreams in Aspiring artist! Upgrade instruments and dyes and hone painter's skills to complete more and more challanging pieces of art. Help him master his painting tools so he could complete the gallery with his amazing works.`,
+    controls: [`Explained in game.`]  
+  },
+  {
     filter: [`shoot`],
     link: `anti-terrorist-rush`,
     imgsrc: `anti-terrorist-rush.png`,
@@ -1492,6 +1580,35 @@ const gamesArr = [
     developer: `Denis Vasilev`,
     desc: `Our hero is step-in once more to stop the terrorist from terrorizing the world!`,
     controls: [`The character shoots automatically. Drag left mouse button to use special weapons.`]  
+  },
+  {
+    filter: [`scary`],
+    link: `baldis-basics`,
+    imgsrc: `baldis-basics.png`,
+    name: `Baldi's Basics`,
+    developer: `Micah McGonigal`,
+    desc: `Baldi's Basics is a state-of-the-art, fully 3D interactive, fun-time educational game that teaches a slew of subjects! From math to spelling, you'll learn a lot! Meet Baldi's friends along the way. Use the items scattered around the school and for the art's content while you look for all the notebooks!`,
+    controls: [`W - Move Forward.
+    A - Strafe Left.
+    S - Move Backwards.
+    D - Strafe Right.
+    Interact - Left Mouse Button.
+    Use Item - Right Mouse Button.
+    Run - Left Shift.
+    Look Behind You - Space Bar.`]  
+  },
+  {
+    filter: [`sport`],
+    link: `backflip-dive-3d`,
+    imgsrc: `backflip-dive-3d.png`,
+    name: `Backflip Dive 3D`,
+    developer: `Lupy Games ltd`,
+    desc: `Have you tested your capabilities to backflip? With BACKFLIP DIVE 3D you can finally do that and it's a very impressive, unique experience for you to enjoy. In this game you have the unique opportunity to test the adrenalin levels that come from just jumping from a crazy height and trying to land as fast as possible. The game tests your capabilities and it brings in front creative ideas, all while pushing the boundaries and making you perfect your flips.
+
+    As you do a backflip you will always try to get the best score and reach the middle. If you do that, you will win the level and move on. BACKFLIP DIVE 3D has multiple cool levels to choose from, each one with intense mechanics and fun ideas. If you are very passionate about testing out your skills this offers an incredible way to do that. The gameplay is very immersive and you will try yourself replaying levels more and more.
+    
+    Plus, in case you are stuck on a level, you can use the credits you acquired to just move on to the next level. How good are you at backflipping? Let's find out!`,
+    controls: [`Hold and release left mouse button to flip and land.`]  
   },
   {
     filter: [`drive`],

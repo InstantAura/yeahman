@@ -58,6 +58,10 @@ const filters = [
         filterid: 'plat',
     },
     {
+        filter: 'IO Games',
+        filterid: 'io',
+    },
+    {
         filter: 'Driving',
         filterid: 'drive',
     },
