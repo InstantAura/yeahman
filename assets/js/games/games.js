@@ -902,6 +902,28 @@ const gamesArr = [
     controls: [`Arrow Keys: Control movement`]
   },
   {
+    filter: [`plat`, `flash`],
+    link: `duck-life-treasure-hunt`,
+    imgsrc: `duck-life-treasure-hunt.png`,
+    name: `Duck Life Treasure Hunt`,
+    developer: `Wix Games`,
+    desc: `Collect coins along the way, level up and upgrade your duck with powerful gadgets and pets then get ready to take the most epic adventure in the Duck Life world. Fast paced and cute running action. Run, jump and fly through the cave. Can you find legendary treasures?`,
+    controls: [`Arrow Keys: Control movement`]
+  },
+  {
+    filter: [`shoot`],
+    link: `awesome-tanks-2`,
+    imgsrc: `awesome-tanks-2.png`,
+    name: `Awesome Tanks 2`,
+    developer: `Alexander Gette`,
+    desc: `Awesome Tanks 2 is a tank game where you battle against other tanks in a top-down 2D arena. Swerve tactically to take cover and fire your cannons to tear down enemy tanks! The fast-paced action is addictive.`,
+    controls: [`WASD/Arrows: moving.
+    Mouse: aiming.
+    Left mouse button: shooting.
+    Upper number row/Mouse scroll/Click/Spacebar: switching weapons.
+    R: drop mines.`]
+  },
+  {
     filter: [`mp`, `puzzle`],
     link: `among-us`,
     imgsrc: `among-us.jpg`,
@@ -1193,6 +1215,33 @@ const gamesArr = [
     controls: [`Left click to interact with an object.`]
   },
   {
+    filter: ['adventure','misc'],
+    link: `adam-and-eve-2`,
+    imgsrc: `adam-and-eve-2.jpg`,
+    name: `Adam and Eve 2`,
+    developer: `JoyceUnited`,
+    desc: `Adam and Eve 2 is a point-and-click adventure game featuring pre-historic characters and animals! You control a man named Adam, and he is on a journey to find Paradise and finally meet Eve. The journey he sets out on is not easy. There are various things that can slow him down. Do not let him down, but help him by solving the puzzles so that he can successfully pass each area and achieve his goal. On the journey, you will find beautiful pre-historic lands and even the big animals, like dinosaur and tortoise. Can Adam finally reach Paradise?`,
+    controls: [`Left click to interact with an object.`]
+  },
+  {
+    filter: ['simulator'],
+    link: `bitlife`,
+    imgsrc: `bitlife.png`,
+    name: `Bitlife`,
+    developer: ` CandyWriter LLC`,
+    desc: `BitLife is a single player life simulation game in which users make decisions based on a series of multiple choice questions presented to them as they get older (within the game).`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: ['adventure','misc'],
+    link: `adam-and-eve-3`,
+    imgsrc: `adam-and-eve-3.jpg`,
+    name: `Adam and Eve 3`,
+    developer: `JoyceUnited`,
+    desc: `Adam and Eve 3 is a point-and-click adventure game featuring pre-historic characters and animals! You control a man named Adam, and he is on a journey to find Paradise and finally meet Eve. The journey he sets out on is not easy. There are various things that can slow him down. Do not let him down, but help him by solving the puzzles so that he can successfully pass each area and achieve his goal. On the journey, you will find beautiful pre-historic lands and even the big animals, like dinosaur and tortoise. Can Adam finally reach Paradise?`,
+    controls: [`Left click to interact with an object.`]
+  },
+  {
     filter: [`misc`, `flash`],
     link: `btd`,
     imgsrc: `btd.jpg`,
@@ -1211,6 +1260,24 @@ const gamesArr = [
     controls: [`Click: Interact`]
   },
   {
+    filter: [`misc`, `flash`],
+    link: `bloons-td-4`,
+    imgsrc: `bloons-td-4.jpg`,
+    name: `Bloons Tower Defense 4`,
+    developer: `Ninja Kiwi`,
+    desc: `Bloons Tower Defense 4. Stop any bloons from escaping the maze by building and upgrading bloons popping towers. Towers can throw darts, tacks, bombs, and ice.`,
+    controls: [`Click: Interact`]
+  },
+  {
+    filter: [`plat`],
+    link: `bob-the-robber`,
+    imgsrc: `bob-the-robber.jpg`,
+    name: `Bob The Robber`,
+    developer: `MeowBeast and Flazm.com`,
+    desc: `Bob the Robber is a platform game where you play as a thief named Bob. Steal from the rich and give to the poor using your lock-picking and burglary abilities. Sneak through each level picking up loot and avoiding detection!`,
+    controls: [`Control Bob with the arrow keys or WSAD, and scan through crates and items with up arrow or W. Your down arrow key or S key doesn't do anything, though. Just follow the letters, grab the money, and get out safely.`]
+  },
+  {
     filter: [`misc`, `puzzle`],
     link: `minesweeper`,
     imgsrc: `minesweeper.png`,
@@ -1218,6 +1285,24 @@ const gamesArr = [
     developer: `PicturElements`,
     desc: `Minesweeper is a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them, with help from clues about the number of neighboring mines in each field.`,
     controls: [`Left Click: Reveal tile`, `Right Click: Flag`, `Smiley Face: Reset game`]
+  },
+  {
+    filter: [`shoot`, `flash`],
+    link: `bow-man`,
+    imgsrc: `bow-man.png`,
+    name: `Bow Man`,
+    developer: `Will Wright`,
+    desc: `The object of the game is to shoot arrows at your opponent and kill them before they kill you. It's a battle against your opponent to see who can accurately judge the angle and strength of the shot to make the arrow land on your opponents body.`,
+    controls: [`Hold left mouse button to prepare shot. Move mouse to influence the power and angle of the shot. Release left mouse button to fire the arrow.`]
+  },
+  {
+    filter: [`shoot`, `flash`],
+    link: `bow-man-2`,
+    imgsrc: `bow-man-2.jpg`,
+    name: `Bow Man 2`,
+    developer: `Will Wright`,
+    desc: `The object of the game is to shoot arrows at your opponent and kill them before they kill you. It's a battle against your opponent to see who can accurately judge the angle and strength of the shot to make the arrow land on your opponents body.`,
+    controls: [`Hold left mouse button to prepare shot. Move mouse to influence the power and angle of the shot. Release left mouse button to fire the arrow.`]
   },
   {
     filter: [`plat`, `mp`, `fight`, `flash`],
@@ -1286,6 +1371,33 @@ const gamesArr = [
     controls: [`W: Speed Stance (Hold)`, `AD/←/→: Control movement`, `S: 180 Slide`, `Space: Drift`, `Esc: Pause`]
   },
   {
+    filter: [`drive`],
+    link: `eggy-car`,
+    imgsrc: `eggy-car.png`,
+    name: `Eggy Car`,
+    developer: `Unknown`,
+    desc: `Just in time for Easter! Eggy car game challenges you to drive an innocent easter egg home without breaking it and while collecting rewards along the way. One cool bonus allows you to freeze the egg on the car, allowing you to accelerate without consequences. But watch out when the egg starts blinking, it will unfreeze soon and may crash and crack open unless you get your car back in check. Have fun driving the easter egg back to your family in one piece. This may be the most fun you will get during the holidays.`,
+    controls: [`Use your keyboard arrows, right arrow to accelerate and left arrow to brake.
+
+    you can also play on your mobile phone by pressing the gas pedal (right) or brake pedal (left).`]
+  },
+  {
+    filter: ['misc'],
+    link: `pvz-2`,
+    imgsrc: `pvz-2.jpg`,
+    name: `PvZ 2`,
+    developer: `PopCap Games`,
+    desc: `The award-winning hit action-strategy adventure where you meet, greet, and defeat legions of hilarious zombies from the dawn of time, to the end of days. Amass an army of amazing plants, supercharge them with Plant Food, and devise the ultimate plan to protect your brain.`,
+    controls: [`Move. left stick.
+    Jump. S button.
+    Action button. A button.
+    Activate primary weapon. R button.
+    weapon. W button.
+    Reload. F button.
+    Turn camera/character. right stick.
+    Ability 1. Q button.`]
+  },
+  {
     filter: [`puzzle`, `flash`],
     link: `the-impossible-quiz`,
     imgsrc: `tiq.png`,
@@ -1304,6 +1416,62 @@ const gamesArr = [
     desc: `The Impossible Quiz 2 is the second installment of the most annoying quiz on the internet. Although not entirely impossible, you must navigate through a series of illogical questions and hope to answer them correctly. 
     Each wrong answer costs you a life, so memorize your answers and try again to get further!`,
     controls: [`Click: Interact`]  
+  },
+  {
+    filter: [`misc`],
+    link: `green`,
+    imgsrc: `green.png`,
+    name: `Green`,
+    developer: `Bart Bonte`,
+    desc: `Each level on Green comes with a new and novel puzzle to complete. The puzzles don't follow any predictable mechanics, meaning you have to figure out how each unique puzzle works. The only constant requirement is that you turn the whole screen green.
+
+    If you get stuck on any level, click the lightbulb in the top right for hints. Each time you click, you get a more obvious clue.
+    
+    There are 25 levels of increasing complexity in Green. How long will it take you to solve them all?`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: [`misc`],
+    link: `city-blocks-2`,
+    imgsrc: `city-blocks-2.png`,
+    name: `City Blocks 2`,
+    developer: `Dev Dude`,
+    desc: `Start your city
+    The gameplay in City Blocks is very intuitive. You can pretty much start playing straight away. Simply merge 3 of the same building type to create a new one. The game displays the next 3 structures in a row, so you can plan ahead.
+    
+    Buy new buildings
+    As your city grows its numbers, it becomes more challenging to create advanced buildings. Especially when it comes to finding space. To overcome this challenge, you can earn jokers. Use the jokers to purchase the structures you need. It’s best to save these until later when you’ll need them the most.
+    
+    Track your rank
+    At the end of each game, you’re rewarded with a score and a global rank for the size of your city. Keep coming back and building new cities to improve your score! The game will save your progress automatically.
+    
+    More Games Like This
+    If you’re hooked on the addictive mechanics of City Blocks, check out our merge and match-3 games for more. You can build your own kingdom in Mergest Kingdom, or defend your castle in Tower Swap.
+    
+    Features
+    Addictive merge mechanics
+    Simple but challenging to master
+    Various structure upgrades
+    Global rank for each city you build`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: [`misc`],
+    link: `alien-invaders-io`,
+    imgsrc: `alien-invaders-io.png`,
+    name: `Alien Invaders.io`,
+    developer: `Casual Azur Games`,
+    desc: `Alien Invaders (.io) is an arcade-style game to absorb all the smaller objects using your UFO and become the biggest in the match. This game has the same play style as Hole.io.`,
+    controls: [`Click to Play`]  
+  },
+  {
+    filter: [`misc`,'plat'],
+    link: `2020-game`,
+    imgsrc: `2020-game.jpeg`,
+    name: `2020 Game`,
+    developer: `MAX GARKAVYY`,
+    desc: `2020 GAME IS A BROWSER GAME ABOUT THE MAJOR EVENTS OF 2020: THE AUSTRALIA WILDFIRES, COVID-19, THE STOCK MARKET CRASH, QUARANTINE, THE RISE OF TIKTOK, THE USA ELECTIONS, ETC.`,
+    controls: [`Unknown`]  
   },
   {
     filter: [`drive`],
