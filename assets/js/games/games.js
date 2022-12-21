@@ -160,6 +160,17 @@ const gamesArr = [
     - UP/DOWN ARROWS: roll`]
   },
   {
+    filter: ['misc'],
+    link: `froggys-battle`,
+    imgsrc: `froggys-battle.jpg`,
+    name: `Froggy's Battle`,
+    developer: `dodoot`,
+    desc: `Froggy the Hero is here to slay Froggo and free the world!  
+    But you won't let them do that so easily. For once, play as the boss and beat the hero, even when they come back stronger!`,
+    controls: [` Arrow keys to target   
+    - Spacebar to jump`]
+  },
+  {
     filter: ['mp','shoot','fight'],
     link: `gun-blood`,
     imgsrc: `gun-blood.png`,
