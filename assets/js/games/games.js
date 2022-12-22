@@ -743,6 +743,30 @@ const gamesArr = [
     controls: [`WASD/Arrow Keys: Control movement`, `Shift: Nitrous`, `R: Respawn`, `T: Open map`, `C: Change camera`]
   },
   {
+    filter: [`plat`],
+    link: `super-mario-bros`,
+    imgsrc: `super-mario-bros.png`,
+    name: `Super Mario Bros`,
+    developer: `Nintendo`,
+    desc: `In the game, Mario must race through the Mushroom Kingdom and save Princess Toadstool (later Princess Peach) from Bowser. Mario jumps, runs, and walks across each level. The worlds are full of enemies and platforms, and open holes. If Mario touches an enemy, he dies.`,
+    controls: [`Move: Arrow Keys/WASD
+    Fire/Sprint: Shift/CTRL
+    Pause: P/Right Click`]
+  },
+  {
+    filter: [`drive`],
+    link: `madalin-stunt-cars-3`,
+    imgsrc: `madalin-stunt-cars-3.jpg`,
+    name: `Madalin Stunt Cars 3`,
+    developer: `Madalin Games`,
+    desc: `Welcome to the expansive open world of Madalin Stunt Cars 3. Pick your car and drift, drag and race your way through three massive fully explorable maps.
+
+    Jump behind the wheel of the hottest supercars on the planet, race through cities and execute trick stunts with the sensational Madalin Stunt Cars 3.
+    
+    Pick a Huracan, LaFerrari, Pagani or Veneno and tear up the streets. Compete in multiplayer arenas with other MSC2 gamers.`,
+    controls: [`WASD/Arrow Keys: Control movement`, `Shift: Nitrous`, `R: Respawn`, `T: Open map`, `C: Change camera`]
+  },
+  {
     filter: [`drive`],
     link: `car-simulator`,
     imgsrc: `car-simulator.png`,
@@ -1045,6 +1069,15 @@ const gamesArr = [
     controls: [`W/Up Arrow`]
   },
   {
+    filter: ['misc','meme'],
+    link: `meme-2048`,
+    imgsrc: `meme-2048.png`,
+    name: `Meme 2048`,
+    developer: `geoffstearns`,
+    desc: `riginal version created by Gabriele Cirulli. Based on 1024 by Veewo Studio and conceptually similar to Threes by Asher Vollmer.`,
+    controls: [`WASD/Arrow Keys`]
+  },
+  {
     filter: ['music'],
     link: `geometry-dash`,
     imgsrc: `geometry-dash.png`,
@@ -1092,6 +1125,54 @@ const gamesArr = [
     developer: `.Gears`,
     desc: `Flappy Bird is an arcade-style game in which the player controls the bird Faby, which moves persistently to the right. The player is tasked with navigating Faby through pairs of pipes that have equally sized gaps placed at random heights.`,
     controls: [`W/Up Arrow/Space`]
+  },
+  {
+    filter: ['clicker'],
+    link: `grind-craft`,
+    imgsrc: `grind-craft.png`,
+    name: `Grind Craft`,
+    developer: `Playsaurus`,
+    desc: `GrindCraft is a Minecraft-themed clicker game based on crafting. Collect various raw materials and climb the crafting ladder to create stronger items. Hover over craftable items to reveal the resources required to create them.`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: ['scary'],
+    link: `hacker-typer`,
+    imgsrc: `hacker-typer.png`,
+    name: `Hacker Typer`,
+    developer: `hackertyper.net`,
+    desc: `Created in 2011, Hacker Typer arose from a simple desire to look like the stereotypical hacker in movies and pop culture. Since that time, it has brought smiles to millions of people across the globe. Plus, many of you have temporarily transformed into hackers yourselves, all from a few clicks on the keyboard (and some programming magic behind the scenes!).`,
+    controls: [`Any letters/numbers.`]
+  },
+  {
+    filter: ['shoot'],
+    link: `kitchen-gun-game`,
+    imgsrc: `kitchen-gun-game.png`,
+    name: `Kitchen Gun Game`,
+    developer: `Ash K`,
+    desc: `Gun down the kitchen! kitchen down the gun! spare the cats!!`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: ['shoot','flash'],
+    link: `kitten-cannon`,
+    imgsrc: `kitten-cannon.png`,
+    name: `Kitten Cannon`,
+    developer: `Dan Fleming`,
+    desc: `Kitten Canon is a classic physics game. Fluffy has found his way into your cannon again, that dang cat just never listens and doesn't care! The only way you can teach it a lesson is by firing that cannon into a field of bombs, spikes, springs, and other awesome obstacles!`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: ['misc'],
+    link: `grey-box-testing`,
+    imgsrc: `grey-box-testing.png`,
+    name: `Grey Box Testing`,
+    developer: `Sam Hogan`,
+    desc: `A game where exploiting bugs is the only way to progress. So you found out you live in a simulation? At least you have this cool new job finding bugs in reality! Don't think like a player, think like a tester.`,
+    controls: [`WASD - move
+    E or P - pause game (seriously, keep this in mind)
+    Space - Jump
+    Click on red cubes to pick them up`]
   },
   {
     filter: ['sport','puzzle'],
