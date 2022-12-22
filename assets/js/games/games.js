@@ -1444,6 +1444,15 @@ const gamesArr = [
     controls: [`Mouse`]
   },
   {
+    filter: [`casual`],
+    link: `mini-mall-millionaire`,
+    imgsrc: `mini-mall.png`,
+    name: `Mini Mall Millionaire`,
+    developer: `MBStudios Games`,
+    desc: `Mini Mall Millionaire is a shop management game in which you run your own shopping mall. Build various shops and upgrade them to earn more profits. Have fun!`,
+    controls: [`Click to Play`]
+  },
+  {
     filter: [`puzzle`],
     link: `bad-ice-cream-3`,
     imgsrc: `bad-ice-cream-3.png`,

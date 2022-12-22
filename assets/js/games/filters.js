@@ -70,6 +70,10 @@ const filters = [
         filterid: 'plat',
     },
     {
+        filter: 'Casual',
+        filterid: 'casual',
+    },
+    {
         filter: 'IO Games',
         filterid: 'io',
     },
