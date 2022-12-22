@@ -1084,7 +1084,171 @@ const gamesArr = [
     name: `Push The Square`,
     developer: `Raul Moreno Tamayo`,
     desc: `Push the square is a short yet fun idle game. In this game, a mysterious square has appeared in your house. It turns out that your main goal will be to make this square rotate clockwise. You need to spend money in order to do it. Hire people to help you accomplish pushing task. Ask for a raise to increase your work salary. Do everything to push the square more and earn more money until you grow into empire and become the president`,
-    controls: [`WASD/Arrow Keys`]
+    controls: [`Click to Play`]
+  },
+  {
+    filter: ['plat'],
+    link: `neon-square`,
+    imgsrc: `neon-square.png`,
+    name: `Rise of The Neon Square`,
+    developer: `Pixelbrain`,
+    desc: `Overcome deadly obstacles and hazardous terrain as you fight and avoid dangerous enemies in Rise Of Neon Square. Travel through the neon-lit maze in this game developed by pixelbrain.`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: ['sport','arcade','runner'],
+    link: `rocking-sky-trip`,
+    imgsrc: `rocking-sky-trip.jpg`,
+    name: `Rocking Sky Trip`,
+    developer: `Y8 Studio`,
+    desc: `Rocking Sky Trip is an exciting endless running game in which you must control a rolling ball through a series of platforms and obstacles. This might sound easy, but the gameplay is fast-paced and the obstacles come thick and fast. If you hit any obstacle on the level then you have to restart – your reactions have to be really quick and you have to keep moving and swerving at all times!`,
+    controls: [`Press anything to start rolling
+    AD or left and right arrow keys to move the ball`]
+  },
+  {
+    filter: ['action'],
+    link: `getting-over-it`,
+    imgsrc: `getting-over-it.png`,
+    name: `Getting Over It (Scratch Edition)`,
+    developer: `Griffpatch`,
+    desc: `A Scratch Recreation of "Getting Over It" by Griffpatch. Subscribe on YouTube for Scratch Tutorials,You can also see my 4'30 speed run on YouTube`,
+    controls: [`Use your mouse to control Scratch Cat's hammer. Push, Drag and Throw yourself up the level in your quest to "Get Over It".`]
+  },
+  {
+    filter: ['plat'],
+    link: `n-gon`,
+    imgsrc: `n-gon.png`,
+    name: `N-gon`,
+    developer: `lilgreenland`,
+    desc: `N-gon is a physics-based single player 2-d platformer shooter with hundreds of different power ups.  You move with the keyboard and aim with the mouse.`,
+    controls: [`Switch Guns: Q and E
+    Move: WASD
+    Fire: Left Click
+    Field: Right Click`]
+  },
+  {
+    filter: ['arcade','misc'],
+    link: `stickman-hook`,
+    imgsrc: `stickman-hook.jpg`,
+    name: `Stickman Hook`,
+    developer: `MadBox`,
+    desc: `Stickman Hook is a challenging skill game in which you must navigate a swinging stickman through hundreds of levels. To keep things fresh while swinging, unlock additional characters along the way. Pay care to the angle and direction of your swing if you want to make it to the finish line.`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: ['scary'],
+    link: `fnaf`,
+    imgsrc: `fnaf.jpg`,
+    name: `FNAF`,
+    developer: `Scott Cawthon, Illumix, Scottgames`,
+    desc: `Five Nights at Freddy's is a media franchise created by Scott Cawthon. The first video game of the same name was released on August 8, 2014, and the resultant series has since gained worldwide popularity.`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: ['plat'],
+    link: `another-gentlemans-adventure`,
+    imgsrc: `another-gentlemans-adventure.png`,
+    name: `Another Gentlemans Adventure`,
+    developer: `Vodolymyr Yakubovych`,
+    desc: `In this game, the player controls a protagonist named The Gentleman, where he has to explore a land with different weird creatures and dangers. They can collect power-ups for better jumps and other features.`,
+    controls: [` Use the arrow keys or WAD to move and jump. Press ESC to see the map and your stats.`]
+  },
+  {
+    filter: ['scary'],
+    link: `fnaf`,
+    imgsrc: `fnaf.jpg`,
+    name: `FNAF`,
+    developer: `Scott Cawthon, Illumix, Scottgames`,
+    desc: `Five Nights at Freddy's is a media franchise created by Scott Cawthon. The first video game of the same name was released on August 8, 2014, and the resultant series has since gained worldwide popularity.`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: ['sport','mp'],
+    link: `haxball`,
+    imgsrc: `haxball.png`,
+    name: `Haxball`,
+    developer: ` Mario Carbajal`,
+    desc: `HaxBall is a realtime multiplayer game that plays like a mix between football and air-hockey, and it's a real blast. Best matches are 2-vs-2 or 3-vs-3, but there's no limit to how many can join.`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: ['arcade'],
+    link: `chrome-dino`,
+    imgsrc: `chrome-dino.jpg`,
+    name: `Chrome Dino`,
+    developer: `Google`,
+    desc: `The Dinosaur Game (also known as the Chrome Dino) is a browser game developed by Google and built into the Google Chrome web browser. The player guides a pixelated Tyrannosaurus rex across a side-scrolling landscape, avoiding obstacles to achieve a higher score.`,
+    controls: [`Arrow Keys/WASD`]
+  },
+  {
+    filter: ['sport','mp','flash'],
+    link: `1-on-1-soccer`,
+    imgsrc: `1-on-1-soccer.png`,
+    name: `1 on 1 Soccer`,
+    developer: `Adam Wardle`,
+    desc: `1 on 1 Soccer is a sports game that you can play with your friend locally or you can play yourself with a bot. Pick a team of your choice and start the soccer match, which lasts 2 minutes. Can you become the world champion?`,
+    controls: [`Use the WASD keys to move.`]
+  },
+  {
+    filter: ['plat'],
+    link: `happy-wheels`,
+    imgsrc: `happy-wheels.png`,
+    name: `Happy Wheels`,
+    developer: `Fancy Force`,
+    desc: `Happy Wheels is a ragdoll physics-based platform browser game developed and published by Fancy Force. Created by video game designer Jim Bonacci in 2010, the game features several player characters, who use different, sometimes atypical, vehicles to traverse the game's many levels. The game is best known for its graphic violence and the amount of user-generated content its players produce on a regular basis, with game maps shared on a public server`,
+    controls: [`Up - Accelerate.
+    Down - Slow/Reverse.
+    Right - Lean right.
+    Left - Lean left.
+    Z - Eject.
+    Shift - Rotate jet clockwise.
+    Ctrl - Rotate jet counter-clockwise.
+    Space - Fire jet.`]
+  },
+  {
+    filter: ['runner'],
+    link: `rolling-forests`,
+    imgsrc: `rolling-forests.png`,
+    name: `Rolling Forests`,
+    developer: `RayhanADev`,
+    desc: `This is an awesome little 3D runner game I made, drawing some inspiration from games like Rolling Sky and Subway Surfers.`,
+    controls: [`Left Arrow/Swipe/A: Switch to left lane.
+    Right Arrow/Swipe/D: Switch to right lane.
+    Up Arrow/Swipe/W/Space: Jump.
+    P/Q/Down Swipe: Pause the game.`]
+  },
+  {
+    filter: ['shoot','action'],
+    link: `tactical-weapon-pack-2`,
+    imgsrc: `tactical-weapon-pack-2.jpg`,
+    name: `Tactical Weapon Pack 2`,
+    developer: `Wilkin Games`,
+    desc: `Put your shooting skills to the test in the second weapon pack installment! Over 100 realistic weapons and attachments to use.`,
+    controls: [`Mouse - Aim/fire weapon
+    R - Reload
+    Q or number keys - Switch weapon
+    F - Use barrel attachment
+    Space - Create new target (firing range only)
+    Esc - Pause menu`]
+  },
+  {
+    filter: ['chance'],
+    link: `push-your-luck`,
+    imgsrc: `push-your-luck.png`,
+    name: `Push Your Luck`,
+    developer: `Unknown`,
+    desc: `Welcome to the Push Your Luck game show, a cool way to learn about probability!
+
+    Spin the wheel to find the target number, then guess if the next spin will be HIGHER or LOWER. Get it right to stay in the round, and the new number will be added to the points in the BANK. But guess wrong and you are knocked out of the round with no points.
+    
+    If guessing seems too risky, press BANK to add the points to your score and sit out the rest of the round. A new round starts after all eight players BANK or BUST.
+    
+    You also get one FREE SPIN each game. It lets you stay in the game for one spin without risking a wrong guess. Use it wisely!
+    
+    The game ends when one player banks 100+ points. That round continues until all players either BANK or BUST, and then the player with the highest score wins.
+    
+    At the end of each game, you gain or lose points based on your finish position. Keep winning to climb your rank all the way from bronze to diamond!`,
+    controls: [`Click to Play`]
   },
   {
     filter: ['shoot','action'],

@@ -26,6 +26,10 @@ const filters = [
         filterid: 'flash',
     },
     {
+        filter: 'Chance',
+        filterid: 'chance',
+    },
+    {
         filter: 'Food',
         filterid: 'food',
     },
