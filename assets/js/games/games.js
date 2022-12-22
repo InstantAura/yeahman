@@ -1064,6 +1064,27 @@ const gamesArr = [
     controls: [`Mouse`]
   },
   {
+    filter: ['sport'],
+    link: `generic-fishing-game`,
+    imgsrc: `generic-fishing-game.png`,
+    name: `Generic Fishing Game`,
+    developer: `Ferociter`,
+    desc: `Sit back and enjoy a peaceful afternoon on the lake, fishing while surrounded by nature. Catch over 3 different types of fish as you fill your entire Fishing Encyclopedia. Try to get the biggest fish from the lake, but most importantly: have a nice, relaxing time.`,
+    controls: [`- Space: Select in menus, most fishing controls
+    - Arrow keys / WASD: Move in menus, Fishing Encyclopedia
+    - P: Open Fishing Encyclopedia
+    - M: Mute`]
+  },
+  {
+    filter: ['misc'],
+    link: `game-inside`,
+    imgsrc: `game-inside.png`,
+    name: `Game Inside a Game`,
+    developer: `Sam Hogan`,
+    desc: `All the way down... forever`,
+    controls: [`Controls`]
+  },
+  {
     filter: ['misc'],
     link: `flappy-bird`,
     imgsrc: `flappy-bird.png`,
@@ -1071,6 +1092,54 @@ const gamesArr = [
     developer: `.Gears`,
     desc: `Flappy Bird is an arcade-style game in which the player controls the bird Faby, which moves persistently to the right. The player is tasked with navigating Faby through pairs of pipes that have equally sized gaps placed at random heights.`,
     controls: [`W/Up Arrow/Space`]
+  },
+  {
+    filter: ['sport','puzzle'],
+    link: `gravity-soccer`,
+    imgsrc: `gravity-soccer.png`,
+    name: `Gravity Soccer`,
+    developer: `QKY Games`,
+    desc: `This is an 18-stage puzzle game where you help use physics to score goals on each level.
+
+    Break blocks & activate bombs as needed to help move the soccer balls toward the goals.
+    Design a path which allows you to collect all 3 stars on each level.
+    You can replay any level you score fewer than 3 stars on to try to improve your score.`,
+    controls: [`Use your mouse left click button to select concrete blocks to break them & to select bombs to set them off.`]
+  },
+  {
+    filter: ['mp','fight'],
+    link: `gimme-the-airpod`,
+    imgsrc: `gimme.png`,
+    name: `Gimme The Airpod`,
+    developer: `Onefin`,
+    desc: `features:
+
+    * Thrilling moment-to-moment combat.
+    * 15 unique arenas and 8 selectable colors.
+    * Hyper realistic axe physics.
+    * Lots of flavortext to make your day extra spicy.
+    * Amazing royalty free music by the great kevin macleod.
+    * Airpods.
+    
+    
+    Tips For Pro Play:
+    
+    To win, the axe must touch the other player while it is flying through the air with your color
+    aim the axe in three different directions by holding up or down and throwing an axe
+    catch an axe coming towards you by pressing the grab button before it touches you
+    duck repeatedly or kick the airpod to taunt your opponent after securing a sweet victory.`,
+    controls: [`wasd or arrow keys to move
+    f or comma to jump
+    g or period to grab or throw axe`]
+  },
+  {
+    filter: ['action'],
+    link: `george`,
+    imgsrc: `george.png`,
+    name: `Flappy Bird`,
+    developer: `Robin Six, Eloïse Zirotti`,
+    desc: `George and the Printer is a point and click game made by Eloïse Zirotti and Robin Six. It only takes around 10 minutes to play, so feel free to give it a try and share your feedback!`,
+    controls: [`Click to Play`]
   },
   {
     filter: [`puzzle`,'misc'],
