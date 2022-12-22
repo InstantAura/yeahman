@@ -29,7 +29,7 @@ const logArr = [
     list: [
       {
         label: [`New`],
-        detail: `Version 3.0.0 is out! V2 Will no longer be receiveing updates`
+        detail: `Version 3.0.0 is out! V2 Will no longer be receiving updates`
       },
       
     ]

@@ -88,12 +88,14 @@ $header.innerHTML = `
 <div class="aa-nav-items">
   <span class="aa-nav-item"><a href="/" target="_top">Home</a></span>
   <span class="aa-nav-item"><a href="/games.html" target="_top">Games</a></span>
-  <span class="aa-nav-item"><a href="/the-unblocker-v2.html" target="_top">The Unblocker V2</a></span>
+  <span class="aa-nav-item"><a href="/holy-unblocker.html" target="_top">Holy Unblocker</a></span>
+  <span class="aa-nav-item"><a href="/chat.html" target="_top">Chat</a></span>
   <span class="aa-nav-item"><a href="/changelog.html" target="_top">Changelog</a></span>
-  <span class="aa-nav-item"><a href="/request-games.html" target="_top">Request Games</a></span>
+  <span class="aa-nav-item"><a href="https://forms.gle/ckyJ6yjMjSBDrTwKA" target="_top">Request Games</a></span>
   <span class="aa-nav-item"><a href="https://github.com/tw31120071857/BCHS-Unblocked-Games-V3" target="_top">Github</a></span>
   <span class="aa-nav-item"><a href="/faq.html" target="_top">FAQ</a></span>
-  <span class="aa-nav-item"><a href="/report-a-problem.html" target="_top">Report a Problem</a></span>
+  <span class="aa-nav-item"><a href="https://forms.gle/tHRagEXzHKQmbN4CA" target="_top">Report a Problem</a></span>
+  <span class="aa-nav-item"><a href="https://discord.gg/GtTGC8RQmC" target="_top">Discord</a></span>
   <span class="aa-nav-item"><a href="/settings.html" target="_top">Settings</a></span>
   <span class="aa-nav-item"><div class="users-online"><i class="fas fa-users"></i> <span id="user-count"></span></div></span>
 </div>
@@ -155,26 +157,24 @@ $footer.innerHTML = `<div class="footer__container">
     </div> 
     <div class="footer-content__right">
         <div class="footer-content__wrapper">
-            <nav class="footer-content__nav">
-                <a class="footer-content__nav-link" href="/" target="_top">Home</a>
-                <a class="footer-content__nav-link" href="/games.html" target="_top">Games</a>
-                <a class="footer-content__nav-link" href="/faq.html" target="_top">FAQ</a>
-                <a class="footer-content__nav-link" href="/request-games.html" target="_top">Request Games</a>
-                <a class="footer-content__nav-link" href="/report-a-problem.html" target="_top">Report a Problem</a>
-            </nav>
-            <nav class="footer-content__nav">
-                <a class="footer-content__nav-link" href="https://github.com/tw31120071857/BCHS-Unblocked-Games-V3" target="_top">Github</a>
-                <a class="footer-content__nav-link" href="/changelog.html" target="_top">Changelog</a
-                
-                <a class="footer-content__nav-link" href="/settings.html" target="_top">Settings</a>
-                <a class="footer-content__nav-link" href="/dmca.html" target="_top">DMCA</a>
-            </nav>
-            <nav class="footer-content__nav">
-                <a class="footer-content__nav-link" href="/terms.html" target="_top">Terms of Service</a>
-                <a class="footer-content__nav-link" href="/credits.html" target="_top">Credits</a>
-                <a class="footer-content__nav-link" href="/privacy.html" target="_top">Privacy Policy</a>
-                <a class="footer-content__nav-link" href="/the-unblocker-v2.html" target="_top">The Unblocker V2</a>
-            </nav>
+          <nav class="footer-content__nav">
+          <a class="footer-content__nav-link" href="/" target="_top">Home</a>
+          <a class="footer-content__nav-link" href="/games.html" target="_top">Games</a>
+          <a class="footer-content__nav-link" href="/faq.html" target="_top">FAQ</a>
+          <a class="footer-content__nav-link" href="/terms.html" target="_top">Terms of Service</a>
+          <a class="footer-content__nav-link" href="https://github.com/tw31120071857/BCHS-Unblocked-Games-V3" target="_top">Github</a>
+          <a class="footer-content__nav-link" href="/holy-unblocker.html" target="_top">Holy Unblocker</a>
+          <a class="footer-content__nav-link" href="/chat.html" target="_top">Chat</a>
+        </nav>
+        <nav class="footer-content__nav">
+          <a class="footer-content__nav-link" href="/changelog.html" target="_top">Changelog</a>
+          <a class="footer-content__nav-link" href="/settings.html" target="_top">Settings</a>
+          <a class="footer-content__nav-link" href="/dmca.html" target="_top">DMCA</a>
+          <a class="footer-content__nav-link" href="/privacy.html" target="_top">Privacy Policy</a>
+          <a class="footer-content__nav-link" href="https://forms.gle/ckyJ6yjMjSBDrTwKAl" target="_top">Request Games</a>
+          <a class="footer-content__nav-link" href="https://forms.gle/tHRagEXzHKQmbN4CA" target="_top">Report a Problem</a>
+          <a class="footer-content__nav-link" href="https://discord.gg/GtTGC8RQmC" target="_top">Discord</a>
+    </nav>
         </div>
     </div>
 </div>

@@ -1163,6 +1163,15 @@ const gamesArr = [
     controls: [`Click to Play`]
   },
   {
+    filter: ['shoot'],
+    link: `angry-birds`,
+    imgsrc: `angry-birds.png`,
+    name: `Angry Birds`,
+    developer: `Jaakko Iisalo`,
+    desc: `Angry Birds is a Finnish action-based media franchise created by Rovio Entertainment. The game series focuses on the eponymous flock of angry birds who try to save their eggs from green-colored pigs.`,
+    controls: [`Click to Play`]
+  },
+  {
     filter: ['sport','mp'],
     link: `haxball`,
     imgsrc: `haxball.png`,
