@@ -18,6 +18,10 @@ const filters = [
         filterid: 'emu',
     },
     {
+        filter: 'Arcade',
+        filterid: 'arcade',
+    },
+    {
         filter: 'Flash',
         filterid: 'flash',
     },

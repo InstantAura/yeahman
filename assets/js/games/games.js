@@ -1074,8 +1074,38 @@ const gamesArr = [
     imgsrc: `meme-2048.png`,
     name: `Meme 2048`,
     developer: `geoffstearns`,
-    desc: `riginal version created by Gabriele Cirulli. Based on 1024 by Veewo Studio and conceptually similar to Threes by Asher Vollmer.`,
+    desc: `Original version created by Gabriele Cirulli. Based on 1024 by Veewo Studio and conceptually similar to Threes by Asher Vollmer.`,
     controls: [`WASD/Arrow Keys`]
+  },
+  {
+    filter: ['arcade'],
+    link: `push-the-square`,
+    imgsrc: `push-the-square.png`,
+    name: `Push The Square`,
+    developer: `Raul Moreno Tamayo`,
+    desc: `Push the square is a short yet fun idle game. In this game, a mysterious square has appeared in your house. It turns out that your main goal will be to make this square rotate clockwise. You need to spend money in order to do it. Hire people to help you accomplish pushing task. Ask for a raise to increase your work salary. Do everything to push the square more and earn more money until you grow into empire and become the president`,
+    controls: [`WASD/Arrow Keys`]
+  },
+  {
+    filter: ['shoot','action'],
+    link: `protektor`,
+    imgsrc: `protektor.png`,
+    name: `Protektor`,
+    developer: `rujogames`,
+    desc: `Protektor is a game originally created for the Ludum Dare #46 Jam (theme: "Keep it alive")
+
+    In the game you must protect a VIP target and bring him alive to the end of each floor.
+    You can also collect stars (3 for each level) to increase your self esteem.
+    You have limited bullets and you must collect them around the level or from your enemies.
+    
+    Movement: Arrow keys  or WASD
+    Fire: Z, X, Y or Shift
+    Stand still to reload your gun
+    
+    If you get shot or the VIP gets shot you loose.`,
+    controls: [`Movement: Arrow keys or WASD
+    Fire: Z, X, Y or Shift
+    Stand still to reload your gun`]
   },
   {
     filter: ['music'],
