@@ -1444,6 +1444,73 @@ const gamesArr = [
     controls: [`Mouse`]
   },
   {
+    filter: [`mp`,'action'],
+    link: `house-of-hazards`,
+    imgsrc: `house-of-hazards.png`,
+    name: `House of Hazards`,
+    developer: `New Eich Games`,
+    desc: `House of Hazards is a fun local multiplayer game where each player completes tasks around the house while avoiding hazards.`,
+    controls: [`Player 1 Controls
+    A, D - Move / Change hazard selection
+    W - Jump
+    S - Crouch / Grab player / Activate hazard
+    Player 2 Controls
+    J, L - Move / Change hazard selection
+    I - Jump
+    K - Crouch / Grab player / Activate hazard
+    Player 3-4 Controls (Gamepad needed)
+    Left stick - Move / Change hazard selection
+    Button south - Jump
+    Button east - Crouch / Grab player / Activate hazard`]
+  },
+  {
+    filter: [`mp`,'shoot','io'],
+    link: `ev-io`,
+    imgsrc: `ev-io.jpg`,
+    name: `Ev.io`,
+    developer: `Addicting Games`,
+    desc: `Ev.io is a multiplayer FPS game set in a futuristic arena released on Crazy Games in January 2021. The game features tactical level designs similar to Halo, Destiny, and Quake. The player has various weapons and abilities that can be used to their advantage on the battlefield.`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: [`mp`,'casual','io'],
+    link: `slither-io`,
+    imgsrc: `slither-io.png`,
+    name: `Slither.io`,
+    developer: `Steve Howse`,
+    desc: `Slither.io is an arcade-style game played against other people who are currently online at the same time. Similar to Agar.io, the main objective is to grow your snake into the biggest of the day by eating light pellets as you avoid other snakes slithering around the screen.`,
+    controls: [`Click to Play`]
+  },
+  {
+    filter: [`mp`,'shoot','fight','action'],
+    link: `fortnite`,
+    imgsrc: `fortnite.jpg`,
+    name: `Fortnite`,
+    developer: `Epic Games`,
+    desc: `In Fortnite, players collaborate to survive in an open-world environment, by battling other characters who are controlled either by the game itself, or by other players. The single-player or co-operative (played with friends) mode, called 'Save the World', involves fighting off zombie-like creatures.`,
+    controls: [`User specifiable.`]
+  },
+  {
+    filter: [`mp`,'shoot','fight','action'],
+    link: `shell-shockers`,
+    imgsrc: `shell-shockers.jpg`,
+    name: `Shell Shockers`,
+    developer: `Blue Wizard Digital`,
+    desc: `Shell Shockers is a popular online browser-based FPS game in which players are given cartoonish weapons and pitted against each other in a variety of maps. And there's a twist — everyone plays as an egg! Choose from six playable classes to blow your opponents out of the frying pan!`,
+    controls: [`WASD for movement
+    SPACE to jump/hop
+    SHIFT to aim
+    LEFT CLICK to fire
+    R to reload
+    E to swap weapon
+    Q for grenade (hold to throw farther)
+    F for Melee
+    Fire button to stop grenade
+    ENTER to open chat box and TAB to close chatbox (can be turned off)
+    Space for up in spectating
+    Shift for down in spectating`]
+  },
+  {
     filter: [`casual`],
     link: `mini-mall-millionaire`,
     imgsrc: `mini-mall.png`,
