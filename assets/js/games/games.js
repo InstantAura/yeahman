@@ -1464,13 +1464,65 @@ const gamesArr = [
     Button east - Crouch / Grab player / Activate hazard`]
   },
   {
+    filter: [`mp`,'shoot'],
+    link: `splitgate`,
+    imgsrc: `splitgate.jpg`,
+    name: `Splitgate`,
+    developer: `1047 Games`,
+    desc: `Splitgate is a free-to-play, fast-paced multiplayer shooter that features player-controlled portals. This sci-fi shooter takes the FPS genre to a new dimension with its portal mechanics, delivering high-flying, multi-dimensional combat.`,
+    controls: [`https://maths-isfun.com.au/assets/img/games/splitgate-controls.png`]
+  },
+  {
+    filter: [`mp`,'shoot'],
+    link: `pixel-gun-3d`,
+    imgsrc: `pixel-gun-3d.png`,
+    name: `Pixel Gun 3D`,
+    developer: `Cyprus studio Cubic Games`,
+    desc: `Conquer territories, control the huge global map, collect valor points, and gain income from your lands to win the war. There are more than 800 different weapons in Pixel Gun 3D, and you can use all of them. Wanna use a medieval sword and shield or, maybe, the Dark Matter Generator? Just do it!`,
+    controls: [`Explained in Game`]
+  },
+  {
+    filter: [`mp`,'shoot','io'],
+    link: `zombs-royale-io`,
+    imgsrc: `zombs-royale-io.png`,
+    name: `Zombs Royale.io`,
+    developer: `End Game`,
+    desc: `Zombs Royale is a fantastic multiplayer io game with awesome battle royale gameplay. It's inspired by Fortnite and PUBG. You must try and survive as the last standing combatant against the hundreds of other players online. Use the WASD keys to move around the map and use the left click mouse button to shoot.`,
+    controls: [`Movement: PC: WASD or arrow keys Mobile: Left joystick
+    Aim: PC: Mouse Cursor Mobile: Right joystick
+    Attack: PC: Left Click Mobile: Right joystick
+    Reload: PC: R key Mobile: Reload button
+    Deploy from plane: PC: Space key or E key Mobile: Deploy button
+    Freefall while skydiving: PC: Hold Space or E key Mobile: Freefall button (same as deploy)
+    Interact with objects (doors, crates, etc.): PC: E key Mobile: Interact button
+    Map: PC: M or TAB Mobile: Click on map
+    Emotes: PC: Right Click or B. Can have up to 6 emotes in-game at one time. Mobile: Emote button
+    Chat(Talk to other players): PC: Enter Key Mobile: Chat button
+    Switch weapons/Equip weapon: PC: Click, Scroll or corresponding number (1-6) Mobile: Click on weapon in hotbar
+    Sprays: PC: T and select. Can have up to 4 sprays in-game at one time. Mobile: Spray button
+    Giving weapons/dropping weapons: PC/Mobile: Click the weapon you want to give away, drag it out of the range of your hotbar and let go. It should then drop on the ground below you.
+    Rearranging weapons: PC/Mobile: Drag the weapons around where you want then to be in your hotbar.`]
+  },
+  {
     filter: [`mp`,'shoot','io'],
     link: `ev-io`,
     imgsrc: `ev-io.jpg`,
     name: `Ev.io`,
     developer: `Addicting Games`,
     desc: `Ev.io is a multiplayer FPS game set in a futuristic arena released on Crazy Games in January 2021. The game features tactical level designs similar to Halo, Destiny, and Quake. The player has various weapons and abilities that can be used to their advantage on the battlefield.`,
-    controls: [`Click to Play`]
+    controls: [`WASD to move
+    Space bar to jump
+    Shift to sprint
+    Q to teleport
+    Z to switch to katana
+    G to throw grenades
+    1-8 and mouse wheel to switch weapons
+    Left mouse button to shoot
+    Right mouse button to aim
+    M to open the menu
+    C to crouch
+    Press C while sprinting to slide
+    (note that these are the standard key binds and can be adjusted in the settings menu)`]
   },
   {
     filter: [`mp`,'casual','io'],
