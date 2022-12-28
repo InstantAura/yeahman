@@ -18,15 +18,6 @@ const gamesArr = [
     controls: [`W/I: Jump`, `E/O: Shoot`]
   },
   {
-    filter: [`music`],
-    link: `my-singing-monsters`,
-    imgsrc: `rooftop.jpg`,
-    name: `Rooftop Snipers`,
-    developer: `Pat Eichler`,
-    desc: `Rooftop Snipers is a chaotic two button local multiplayer game. Challenge your friends side by side or play the computer. Shoot your opponent off the map to win.`,
-    controls: [`W/I: Jump`, `E/O: Shoot`]
-  },
-  {
     filter: ['clicker'],
     link: `clicker-heroes`,
     imgsrc: `clicker-heroes.jpg`,
